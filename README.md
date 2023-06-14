@@ -1,2 +1,2 @@
 # JavaGameFacul
-Trabalho do Gustavo - Programação de soluções computacionais
+Trabalho do professor Gustavo - Programação de soluções computacionais
